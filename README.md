@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a boilerplate application to render a list in React. It was built as a project to show people who might not be familiar with the syntax in React how to create and import components, make an api call, and render a list based on that call.
+Application allowing you to find one or more movies via the search bar, with the possibility of adding/removing movies from your favorites list. Data comes from Imdb's API, the application is developed with React.
 
 ## Installation
 - Clone the repo in your terminal by clicking the _green_ clone or download button at the top right and copyin the url
